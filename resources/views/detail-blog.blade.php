@@ -54,7 +54,7 @@
 
               <div class="entry-content">
                 <p>
-                  {{htmlspecialchars(trim(strip_tags($artikel->excerpt())))}}
+                  {{htmlspecialchars(trim(strip_tags($artikel->ArtikelDeskripsi)))}}
                 </p>
               </div>
 

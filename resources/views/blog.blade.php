@@ -146,8 +146,6 @@
           </div><!-- End blog sidebar -->
 
         </div>
-
-      </div>
     </section><!-- End Blog Section -->
 
   </main><!-- End #main -->
